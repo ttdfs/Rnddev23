@@ -1,0 +1,2 @@
+root: D:\◑◑◑◑ 스프링부트 공부_my_2211\밀리의서재_스프링부트_예제(Product로 임포팅됨)\nvm
+path: C:\Program Files\nodejsdd

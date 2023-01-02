@@ -1,0 +1,8 @@
+body {
+  font-family: 나눔고딕, 'NanumGothic', Nanum Gothic, sans-serif;
+}
+
+a:link { text-decoration: none; color: blue; }
+a:hover { text-decoration: underline; color: red; }
+a:visited { text-decoration: none; }
+a:active { text-decoration: none; color: yellow; }
